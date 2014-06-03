@@ -1,0 +1,3 @@
+#! /bin/bash
+
+gcc -g -o relzp relzp.c -std=c99
